@@ -15,4 +15,4 @@ Stage 3 — Knowledge distillation: Distill the ensemble knowledge into a fast Y
 # Results
 <p align="center"> <img src="assets/result.jpg" alt="Mutual Learning result (Co-DETR ↔ RTMDet → KD to YOLOv10)" width="250"> </p>
 
-We took first place with a substantial lead over the second-place team.
+We took first place with a substantial lead over the second-place team, and we were featured in the newspaper ([https://www.koreadaily.com/article/20250730194157841]).
