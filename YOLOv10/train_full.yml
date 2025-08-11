@@ -1,0 +1,17 @@
+path: /home/sejong/seonghyeon/road_damage_detection/data
+train:
+  - train/img
+
+val:
+  - test/img
+
+names:
+  0: Repair
+  1: D00
+  2: D10
+  3: D20
+  4: D40
+#  0: D00
+#  1: D10
+#  2: D20
+#  3: D40
