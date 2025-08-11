@@ -1,0 +1,1690 @@
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000017.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000043.jpg 393.67 468.79 423.44 486.45 4 0.9284
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000043.jpg 312.93 501.15 473.80 538.83 4 0.6082
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000043.jpg 223.76 499.16 267.41 518.22 4 0.6009
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000054.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000090.jpg 479.42 591.05 502.80 608.48 4 0.8266
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000090.jpg 350.48 558.62 398.54 582.78 4 0.6059
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000099.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000131.jpg 361.32 396.23 429.16 426.29 4 0.9169
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000191.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000267.jpg 437.55 591.41 475.43 646.34 1 0.8863
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000275.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000316.jpg 331.41 482.65 437.91 524.53 4 0.9071
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000316.jpg 333.38 502.18 365.14 518.22 4 0.7728
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000316.jpg 174.08 520.19 213.68 544.67 4 0.3378
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000320.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000373.jpg 383.15 460.04 483.56 492.41 4 0.4784
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000384.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000391.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000482.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000512.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000525.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000548.jpg 379.41 576.12 409.75 597.46 4 0.7882
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000548.jpg 359.19 574.12 435.69 605.51 4 0.3227
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000557.jpg 350.83 478.92 397.82 500.25 4 0.4882
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000586.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000592.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000596.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000597.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000599.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000603.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000609.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000617.jpg 430.29 432.35 455.09 479.48 1 0.8935
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000631.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000644.jpg 368.74 522.74 473.19 617.23 4 0.8087
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000644.jpg 343.02 500.96 395.36 538.91 4 0.5755
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000659.jpg 199.88 489.90 294.67 521.90 4 0.4181
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000678.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000683.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000685.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000701.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 153.27 514.83 263.80 575.78 4 0.8378
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 372.00 466.25 418.76 491.72 4 0.5785
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 350.97 511.61 395.25 592.59 4 0.5490
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 175.60 516.15 263.08 565.00 4 0.4987
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 335.48 427.12 422.82 497.27 4 0.4109
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 219.51 428.48 422.90 482.51 4 0.2983
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 274.41 437.44 317.22 455.20 4 0.2769
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000710.jpg 218.81 429.83 425.00 480.12 4 0.2751
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000714.jpg 384.53 495.10 416.96 516.14 4 0.8906
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000740.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000768.jpg 121.64 527.05 161.96 557.24 4 0.3367
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000773.jpg 400.79 641.21 438.76 720.00 1 0.5782
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000776.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000825.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000846.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000895.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000931.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000940.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000945.jpg 372.67 520.87 437.12 544.67 4 0.8415
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000969.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000981.jpg 444.15 522.48 522.22 652.52 4 0.8955
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_000994.jpg 502.72 496.64 549.87 517.98 4 0.4914
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001002.jpg 546.48 503.54 718.92 632.99 3 0.8725
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001002.jpg 391.36 518.18 414.78 596.37 1 0.2666
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001007.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001056.jpg 390.15 349.89 464.86 382.58 4 0.9431
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001056.jpg 569.26 508.42 598.76 547.08 4 0.2506
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001076.jpg 370.85 458.68 432.07 648.85 1 0.3353
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001085.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001095.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001098.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001112.jpg 498.96 618.11 543.65 648.85 4 0.7380
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001112.jpg 397.27 607.81 502.40 702.22 4 0.3226
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001156.jpg 381.71 528.46 414.05 550.62 4 0.9409
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001156.jpg 395.86 406.03 426.22 421.67 4 0.9355
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001156.jpg 376.37 457.27 411.13 470.04 4 0.9104
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001156.jpg 23.32 602.17 77.56 648.15 4 0.8633
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001156.jpg 178.54 448.21 280.98 494.08 4 0.8315
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001156.jpg 177.98 453.11 275.48 493.96 4 0.3591
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001156.jpg 280.18 473.24 482.61 625.50 3 0.2665
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001200.jpg 338.05 369.31 375.92 392.97 4 0.8928
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001213.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001232.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001250.jpg 380.25 370.28 404.72 383.61 4 0.6091
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001314.jpg 429.83 384.87 480.58 419.06 4 0.9392
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001314.jpg 419.56 344.02 469.06 362.43 4 0.8227
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001314.jpg 500.71 375.68 537.31 391.12 4 0.8085
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001314.jpg 513.66 386.64 558.38 406.47 4 0.6332
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001314.jpg 419.93 344.70 463.28 361.77 4 0.5741
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001320.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001336.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001367.jpg 429.72 500.50 570.08 532.83 4 0.9607
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001367.jpg 531.10 600.43 558.54 675.75 1 0.9264
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001367.jpg 347.25 502.70 442.12 561.42 4 0.9174
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001367.jpg 437.06 531.01 523.48 561.82 4 0.6113
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001367.jpg 647.45 594.79 720.00 673.56 4 0.3459
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001367.jpg 208.68 582.53 360.34 700.34 4 0.3456
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001489.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001496.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001502.jpg 509.01 525.09 719.48 720.00 3 0.6512
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001517.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001524.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001528.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001531.jpg 323.82 541.95 361.35 634.54 1 0.7867
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 313.68 593.26 359.31 622.18 4 0.9434
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 365.02 520.41 410.60 552.24 4 0.9325
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 317.76 457.59 345.41 471.15 4 0.9303
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 353.62 431.94 377.34 443.90 4 0.8929
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 367.32 444.06 409.66 470.26 3 0.8763
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 186.48 618.71 243.70 661.11 4 0.8511
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 256.80 609.90 298.64 640.28 4 0.6852
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 320.48 476.50 365.16 489.46 4 0.5264
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 301.18 579.45 419.47 629.53 4 0.4354
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 363.58 492.75 414.46 553.82 4 0.3954
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 482.47 547.40 530.10 577.83 4 0.3174
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 395.13 431.51 412.85 443.31 4 0.3136
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001550.jpg 337.12 449.31 354.03 460.84 4 0.3023
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001558.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001563.jpg 306.31 408.10 360.54 455.31 3 0.7947
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001563.jpg 241.57 433.27 342.51 557.53 3 0.4499
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001580.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001588.jpg 327.13 397.69 397.24 426.55 4 0.9008
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001605.jpg 346.89 552.57 373.81 570.24 4 0.8698
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001659.jpg 420.89 630.43 501.02 697.85 4 0.9290
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001722.jpg 429.29 573.82 489.91 676.93 1 0.9197
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001722.jpg 276.01 551.24 306.59 566.42 4 0.6987
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001773.jpg 512.04 498.91 719.48 669.01 3 0.4781
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001808.jpg 268.46 495.32 294.63 524.41 4 0.5193
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001844.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001852.jpg 574.17 430.20 627.15 451.36 4 0.6112
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001866.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001877.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001925.jpg 234.06 457.53 269.97 480.09 4 0.8887
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001925.jpg 204.17 476.62 245.37 516.85 4 0.6119
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_001954.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002025.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002034.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002046.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002052.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002063.jpg 435.46 546.08 496.00 578.38 4 0.7444
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002065.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002069.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002095.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002106.jpg 398.75 457.72 427.12 471.42 4 0.8884
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002113.jpg 227.86 523.31 433.36 674.82 3 0.4927
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002118.jpg 370.08 363.94 448.47 383.46 4 0.2570
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002132.jpg 172.93 556.16 235.10 589.94 4 0.5198
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002137.jpg 255.64 652.02 349.59 720.00 4 0.8421
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002175.jpg 456.46 551.50 505.52 587.84 4 0.3688
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002184.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002191.jpg 266.46 562.03 285.14 594.13 4 0.3165
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002194.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002215.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002253.jpg 435.52 462.17 522.11 507.28 4 0.8629
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002253.jpg 459.72 465.42 490.23 484.46 4 0.8332
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002253.jpg 345.96 582.27 523.09 655.82 4 0.3303
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002293.jpg 336.94 380.74 386.73 414.38 4 0.5997
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002293.jpg 439.83 603.99 458.65 620.01 4 0.4987
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002318.jpg 459.25 515.83 570.74 564.15 4 0.8847
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002321.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002348.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002366.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002385.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002390.jpg 145.81 668.66 183.55 697.31 4 0.3938
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002404.jpg 390.95 411.35 432.53 432.44 4 0.9398
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002411.jpg 268.39 446.00 392.63 503.28 4 0.3107
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002428.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002566.jpg 322.34 509.01 345.48 564.72 1 0.2674
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002567.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002576.jpg 404.84 638.26 526.82 682.02 4 0.8440
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002576.jpg 348.09 473.43 381.05 490.31 4 0.7836
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002576.jpg 309.57 465.89 386.90 520.77 4 0.5353
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002576.jpg 471.28 640.83 523.27 670.11 4 0.3115
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002576.jpg 310.43 465.40 386.42 521.13 4 0.2924
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002582.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002591.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002608.jpg 384.05 457.01 422.50 479.06 4 0.9401
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002608.jpg 514.75 534.02 557.39 560.72 4 0.9199
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002608.jpg 391.52 495.08 439.35 525.56 4 0.9127
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002608.jpg 410.41 562.55 454.31 580.05 4 0.4223
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002614.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002656.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002696.jpg 322.65 467.39 364.79 483.48 4 0.8839
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002696.jpg 323.74 478.61 390.19 500.69 4 0.8124
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002696.jpg 317.61 465.47 392.17 501.61 4 0.7535
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002696.jpg 136.44 476.01 218.11 499.05 4 0.7017
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002696.jpg 162.88 479.34 217.78 497.76 4 0.4229
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002713.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002714.jpg 420.24 453.74 473.32 477.60 4 0.9292
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002714.jpg 453.63 556.28 501.63 616.40 1 0.4243
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002810.jpg 268.96 575.41 289.35 589.37 4 0.8154
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002810.jpg 340.67 626.36 383.66 655.85 4 0.7711
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002871.jpg 407.38 503.31 476.20 529.49 4 0.8859
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002903.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002905.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002939.jpg 355.52 452.90 390.71 535.73 1 0.9376
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002939.jpg 448.60 464.36 501.04 531.87 1 0.5174
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_002949.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003029.jpg 423.47 651.37 473.05 681.16 4 0.3634
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003057.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003071.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003079.jpg 567.34 466.88 636.25 498.78 4 0.8557
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003085.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003151.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003152.jpg 519.02 505.74 559.93 531.83 4 0.5644
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003152.jpg 237.77 404.50 289.08 434.37 4 0.3991
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003152.jpg 344.15 418.91 377.21 436.50 4 0.3140
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003246.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003312.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003318.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003321.jpg 168.51 464.54 376.89 662.63 3 0.8222
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003334.jpg 396.41 580.96 430.50 597.61 4 0.7724
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003401.jpg 545.38 459.68 659.26 506.93 3 0.6414
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003401.jpg 509.24 442.93 582.28 504.61 1 0.4213
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003507.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003535.jpg 274.90 433.40 399.53 501.41 4 0.8123
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003535.jpg 274.05 432.83 400.36 501.63 4 0.7427
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003556.jpg 268.89 538.70 308.25 567.37 4 0.9312
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003569.jpg 350.75 403.31 389.45 527.06 1 0.5675
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003587.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003592.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003616.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003682.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003702.jpg 189.62 670.93 259.18 718.57 4 0.9270
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003702.jpg 92.74 485.62 125.47 499.83 4 0.9045
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003702.jpg 219.53 461.11 256.24 481.85 4 0.8890
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003704.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003767.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003776.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003778.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003780.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003806.jpg 370.52 339.92 454.36 366.16 4 0.8683
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003806.jpg 324.42 347.81 364.46 365.27 4 0.7091
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003806.jpg 383.93 360.81 401.65 370.27 4 0.3677
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003806.jpg 259.77 365.27 371.97 433.32 4 0.3609
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003842.jpg 263.29 612.73 308.57 635.94 4 0.8171
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003901.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003943.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_003981.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004003.jpg 321.44 515.43 402.10 554.72 4 0.8748
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004003.jpg 507.44 548.19 631.79 601.88 4 0.8385
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004003.jpg 468.72 478.27 533.73 498.71 4 0.8284
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004003.jpg 322.85 528.56 370.29 554.23 4 0.3812
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004022.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004071.jpg 436.12 394.50 454.58 406.67 4 0.2627
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004073.jpg 435.53 436.56 482.75 458.42 4 0.9253
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004073.jpg 297.43 486.63 483.22 653.73 3 0.8430
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004073.jpg 321.05 457.29 342.91 470.78 4 0.6228
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004073.jpg 435.17 437.14 465.06 452.81 4 0.5059
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004073.jpg 410.21 451.34 452.29 469.64 4 0.2767
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004073.jpg 355.95 430.15 429.51 449.89 4 0.2763
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004115.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004210.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004249.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004253.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004256.jpg 374.62 475.33 427.47 497.20 4 0.9484
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004256.jpg 318.21 431.24 408.13 461.79 4 0.9318
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004256.jpg 362.43 424.44 406.35 442.70 4 0.3146
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004270.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004320.jpg 287.40 491.32 352.63 523.36 4 0.2614
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004345.jpg 307.92 382.75 404.31 436.64 4 0.5388
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004385.jpg 242.52 457.00 324.23 505.60 4 0.9177
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004385.jpg 424.53 554.52 444.66 596.82 1 0.3163
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004441.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004497.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004562.jpg 496.44 667.79 514.02 681.06 4 0.8921
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004570.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004599.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004606.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004612.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004616.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004663.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004671.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004717.jpg 390.23 596.08 469.55 633.00 4 0.8213
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004719.jpg 432.01 443.24 483.98 467.22 4 0.9269
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004719.jpg 606.28 568.72 671.45 599.10 4 0.4040
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004770.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004801.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004838.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004865.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004880.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004919.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004981.jpg 375.69 591.42 433.77 635.66 4 0.9102
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004984.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004987.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_004998.jpg 207.36 358.80 253.83 402.11 4 0.4789
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005071.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005151.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005186.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005245.jpg 426.73 451.76 497.97 482.72 4 0.9054
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005269.jpg 554.55 623.13 672.51 671.59 4 0.3097
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005285.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005286.jpg 492.45 440.83 601.08 486.66 4 0.9560
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005286.jpg 200.11 452.20 327.84 483.39 4 0.7140
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005298.jpg 279.02 573.46 405.85 631.24 4 0.8178
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005347.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005376.jpg 365.44 586.75 386.36 601.29 4 0.8869
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005472.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005490.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005510.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005519.jpg 491.78 632.56 544.04 668.37 4 0.9071
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005519.jpg 416.78 652.16 448.70 678.61 4 0.6969
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005519.jpg 484.33 600.35 540.67 636.25 4 0.6292
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005539.jpg 87.12 655.08 133.46 678.66 4 0.9388
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005539.jpg 435.42 501.05 481.15 518.66 4 0.8461
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005539.jpg 472.05 569.97 516.44 599.00 4 0.2898
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005547.jpg 305.87 395.78 474.37 479.35 4 0.7989
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005547.jpg 163.23 420.23 276.35 489.71 4 0.4430
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005569.jpg 244.72 641.23 296.38 687.34 4 0.9364
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005569.jpg 420.39 639.37 451.62 668.64 4 0.9349
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005595.jpg 387.19 445.62 434.20 475.50 4 0.2806
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005616.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005619.jpg 507.89 530.05 719.72 696.01 3 0.5373
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005619.jpg 283.30 464.14 362.25 671.50 1 0.5061
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005660.jpg 304.96 417.75 331.88 431.71 4 0.9207
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005672.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005697.jpg 296.42 464.98 507.83 687.09 3 0.5425
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005697.jpg 359.37 501.18 402.77 516.40 4 0.4691
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005728.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005755.jpg 366.89 469.29 412.91 565.37 1 0.3006
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005774.jpg 357.77 486.83 423.15 513.34 4 0.3386
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005784.jpg 369.90 600.64 438.83 637.12 4 0.3904
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005788.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005810.jpg 287.28 543.88 321.01 564.38 4 0.9428
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005829.jpg 136.92 468.82 204.65 498.37 4 0.3225
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005859.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005895.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005936.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005976.jpg 309.40 530.88 347.97 553.59 4 0.5746
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_005992.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006000.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 386.48 417.19 416.05 432.61 4 0.8796
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 255.72 417.47 292.65 432.45 4 0.8117
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 387.95 438.88 454.15 462.74 4 0.7859
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 412.27 464.70 493.91 496.21 4 0.6893
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 331.20 436.16 454.46 465.83 4 0.6557
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 268.90 397.11 335.69 419.07 4 0.6324
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 258.54 433.27 401.67 467.89 4 0.4402
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006045.jpg 272.09 401.96 310.55 418.19 4 0.3188
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006057.jpg 409.81 415.79 434.71 461.21 1 0.8384
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006058.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006080.jpg 295.04 599.10 319.20 617.79 4 0.8364
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006087.jpg 604.02 575.20 637.49 591.41 4 0.9551
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006087.jpg 634.07 586.05 704.55 629.31 1 0.7488
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006087.jpg 510.15 564.78 719.84 720.00 3 0.5496
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006091.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006097.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006129.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006137.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006148.jpg 213.52 425.92 288.67 452.71 4 0.9131
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006148.jpg 150.39 442.65 199.24 462.61 4 0.6805
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006167.jpg 406.56 408.11 445.94 427.09 4 0.7067
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006205.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006219.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006240.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006260.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006330.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006392.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006433.jpg 490.67 479.72 549.49 504.55 4 0.8976
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006433.jpg 388.78 481.41 473.86 501.14 4 0.8435
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006433.jpg 473.12 515.71 516.37 538.62 4 0.6604
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006433.jpg 325.94 473.71 369.22 494.27 4 0.4154
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006433.jpg 341.43 480.87 368.74 494.17 4 0.3649
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006446.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006464.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006493.jpg 463.63 506.63 492.56 553.93 1 0.6768
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006495.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006533.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006535.jpg 214.01 491.10 237.84 503.03 4 0.8370
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006535.jpg 157.05 502.99 184.22 517.84 4 0.7728
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006535.jpg 161.68 484.10 209.67 501.26 4 0.6254
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006536.jpg 275.04 426.20 324.23 445.53 4 0.4045
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006538.jpg 518.51 591.41 553.27 631.13 1 0.7337
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006549.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006601.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006622.jpg 0.00 452.77 57.49 478.67 2 0.4976
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006622.jpg 195.51 564.92 233.43 592.70 4 0.4258
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006634.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006647.jpg 349.79 426.92 381.14 439.48 4 0.9334
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006647.jpg 345.36 529.42 372.92 545.96 4 0.8112
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006663.jpg 504.72 553.82 719.26 720.00 3 0.8254
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006672.jpg 371.82 479.77 390.08 491.48 4 0.7603
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006704.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006713.jpg 279.36 563.68 309.53 584.38 4 0.9536
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006713.jpg 330.83 597.00 370.04 649.82 1 0.8532
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006713.jpg 358.92 559.07 389.65 575.04 4 0.2698
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006730.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006749.jpg 162.24 556.25 270.85 616.37 4 0.6952
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006822.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006839.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006850.jpg 341.31 440.90 370.34 470.27 4 0.9005
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006882.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006925.jpg 342.13 464.76 368.90 491.32 4 0.2520
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006973.jpg 546.11 574.57 608.37 611.99 4 0.8485
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006973.jpg 352.33 468.56 522.32 558.48 4 0.5746
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006973.jpg 484.75 499.19 517.23 519.84 4 0.2535
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006977.jpg 408.39 483.26 470.73 504.58 4 0.8909
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006977.jpg 482.55 464.12 542.85 486.70 4 0.8523
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006977.jpg 400.00 525.31 428.01 632.90 1 0.6915
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006977.jpg 639.61 556.02 682.98 580.94 4 0.5074
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006995.jpg 231.65 425.76 310.23 455.97 4 0.9019
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006995.jpg 387.77 392.18 419.81 408.81 4 0.6614
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_006995.jpg 349.10 442.25 396.61 455.84 4 0.3693
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007002.jpg 352.12 367.51 423.43 419.02 4 0.6665
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007002.jpg 55.71 633.53 157.36 719.80 4 0.2671
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007059.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007072.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007136.jpg 486.04 451.54 619.63 594.33 3 0.6112
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007146.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007172.jpg 240.90 590.33 277.73 622.58 4 0.7126
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007175.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007198.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007231.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007299.jpg 437.41 445.76 481.63 468.21 4 0.9296
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007299.jpg 538.64 459.03 570.88 472.89 4 0.7813
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007322.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007343.jpg 441.58 573.52 482.60 590.26 4 0.8233
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007343.jpg 270.78 519.31 306.02 534.17 4 0.8031
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007357.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007368.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007397.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007412.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007422.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007476.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007484.jpg 638.43 546.28 675.63 562.47 4 0.3980
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007487.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007492.jpg 352.49 326.65 371.64 345.47 4 0.3862
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007497.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007527.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007530.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007587.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007595.jpg 346.17 473.41 371.41 536.91 1 0.3727
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007626.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007641.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007647.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007689.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007720.jpg 388.78 475.42 417.37 488.16 4 0.8451
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007720.jpg 445.12 433.04 520.19 458.21 4 0.5657
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007720.jpg 452.37 435.85 527.57 459.62 4 0.3973
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007735.jpg 357.17 433.29 401.12 456.03 4 0.9309
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007735.jpg 453.28 462.19 474.91 480.04 4 0.8527
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007740.jpg 130.03 584.93 187.92 630.20 4 0.2553
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007782.jpg 369.61 381.32 423.37 403.61 4 0.9136
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007796.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007809.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007811.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007824.jpg 426.09 410.26 464.01 424.47 4 0.8533
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007849.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007884.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007893.jpg 391.14 429.46 457.48 456.99 4 0.8930
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007893.jpg 180.39 465.63 313.91 561.80 1 0.6654
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007893.jpg 240.74 459.68 309.15 515.13 1 0.5979
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007893.jpg 240.79 447.43 322.62 515.07 1 0.2875
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007943.jpg 330.75 486.74 425.96 547.67 4 0.8936
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007943.jpg 251.77 459.94 343.31 514.40 4 0.7033
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_007997.jpg 407.37 230.12 601.38 432.96 3 0.3378
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008014.jpg 440.36 360.48 524.43 456.43 1 0.3102
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008062.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008067.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008068.jpg 295.34 566.04 329.61 720.00 1 0.4634
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008134.jpg 506.55 491.26 718.77 714.27 3 0.7799
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008134.jpg 470.69 540.83 512.86 568.37 4 0.2831
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008209.jpg 354.47 460.26 399.02 479.54 4 0.9347
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008241.jpg 454.15 489.21 560.02 547.34 4 0.8833
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008241.jpg 395.62 450.89 425.38 471.06 4 0.8457
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008241.jpg 244.98 410.67 351.75 459.57 4 0.8212
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008241.jpg 291.28 484.57 407.91 555.76 4 0.7565
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008241.jpg 395.72 445.08 425.65 471.33 4 0.5863
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008241.jpg 419.40 459.34 504.62 542.03 4 0.4270
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008241.jpg 381.60 413.60 423.16 433.29 4 0.2759
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008247.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008254.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008256.jpg 507.92 558.84 719.30 720.00 3 0.5988
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008266.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008297.jpg 421.47 531.88 508.29 609.81 4 0.9035
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008297.jpg 414.52 502.08 435.20 517.22 4 0.6622
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008297.jpg 298.87 569.26 364.89 605.97 4 0.2794
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008321.jpg 372.38 432.07 399.28 447.43 4 0.9158
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008344.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008367.jpg 573.58 465.41 628.95 492.04 4 0.8502
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008367.jpg 564.14 464.76 688.89 546.43 4 0.7142
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008375.jpg 428.90 387.84 470.97 415.05 4 0.3913
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008375.jpg 415.61 382.54 472.06 431.92 4 0.2958
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008396.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008416.jpg 250.28 456.81 324.67 495.61 4 0.8729
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008416.jpg 355.48 426.50 453.64 451.50 4 0.7968
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008416.jpg 440.09 536.21 567.28 586.28 4 0.5434
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008416.jpg 334.25 390.81 394.14 421.16 4 0.4888
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008416.jpg 332.85 418.77 360.73 430.26 4 0.3012
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008416.jpg 334.47 451.85 401.32 587.76 1 0.2937
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008458.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008479.jpg 251.18 413.66 377.65 451.74 4 0.8195
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008507.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008540.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008544.jpg 287.37 477.96 384.26 533.64 4 0.8176
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008565.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008575.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008616.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008636.jpg 449.75 258.94 518.73 300.11 4 0.4274
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008711.jpg 224.42 472.10 247.11 487.89 4 0.5644
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008724.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008752.jpg 377.64 534.37 410.72 556.47 4 0.7878
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008762.jpg 376.08 440.16 448.10 465.61 4 0.8636
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008762.jpg 287.70 409.30 448.37 466.11 4 0.7788
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008762.jpg 148.18 614.04 247.96 693.74 4 0.4032
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008771.jpg 502.59 656.20 552.12 690.37 4 0.2887
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008790.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008832.jpg 556.91 580.75 638.93 673.55 1 0.6872
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008832.jpg 556.61 582.49 639.60 674.32 1 0.2976
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 260.02 589.59 295.67 620.29 4 0.9135
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 304.87 600.45 360.53 629.47 4 0.9084
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 330.35 489.01 371.73 511.00 4 0.8997
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 394.52 463.34 429.85 484.87 4 0.8507
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 357.73 440.81 381.10 455.80 4 0.8340
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 364.95 485.07 433.68 541.86 4 0.8289
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 154.52 579.22 242.59 635.56 4 0.7915
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 167.85 497.54 222.37 535.36 4 0.7166
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 134.72 533.80 191.11 555.24 4 0.6497
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 357.32 561.94 474.68 639.12 4 0.5587
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 29.60 536.95 64.04 556.36 4 0.4229
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 231.67 474.18 323.79 506.26 4 0.4194
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 415.77 546.29 443.45 565.79 4 0.2840
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008860.jpg 0.51 649.76 209.49 720.00 4 0.2661
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008969.jpg 238.71 586.52 440.69 660.49 4 0.7871
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008969.jpg 303.73 588.39 438.22 654.08 4 0.5279
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_008998.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009000.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009011.jpg 111.18 556.29 179.69 587.36 4 0.2874
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009038.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009042.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009066.jpg 548.92 648.41 607.10 701.13 4 0.2644
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009134.jpg 436.92 477.58 487.27 537.56 1 0.3108
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009138.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009175.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009205.jpg 347.09 391.53 454.16 436.23 4 0.9297
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009263.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009304.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009329.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009346.jpg 634.42 587.62 682.06 614.73 4 0.2537
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009426.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009517.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009546.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009564.jpg 237.18 435.88 422.78 648.77 4 0.7010
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009581.jpg 374.56 475.44 410.06 539.63 1 0.6059
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009607.jpg 372.83 392.40 415.47 411.08 4 0.8424
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009612.jpg 320.40 599.90 352.99 632.68 4 0.6677
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009612.jpg 337.54 450.69 378.95 471.55 4 0.6275
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009640.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009650.jpg 460.32 501.41 643.89 623.45 3 0.4296
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009663.jpg 341.89 524.98 374.74 546.35 4 0.9233
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009698.jpg 312.10 511.05 347.29 538.70 4 0.8343
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009723.jpg 408.87 560.16 441.72 586.53 4 0.5160
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009743.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009750.jpg 608.08 398.02 642.52 414.96 4 0.6260
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009751.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009763.jpg 388.23 433.20 484.46 446.97 2 0.2665
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009775.jpg 497.83 489.63 719.20 686.59 3 0.4823
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009792.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009793.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009815.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009836.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009842.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009856.jpg 353.02 411.74 423.72 436.84 4 0.8998
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009856.jpg 346.23 486.35 418.22 546.87 4 0.7923
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009856.jpg 323.32 446.20 371.51 464.33 4 0.5536
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009856.jpg 392.39 442.56 480.04 526.07 4 0.5120
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009856.jpg 0.00 484.96 21.82 550.04 1 0.3083
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009856.jpg 0.03 485.70 20.98 522.97 4 0.3059
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country1_009888.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000011.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000020.jpg 336.98 370.63 384.96 381.12 2 0.7137
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000043.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000059.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000081.jpg 381.08 370.16 444.78 406.64 3 0.9314
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000089.jpg 407.52 557.66 519.66 587.66 2 0.6087
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000089.jpg 213.70 422.57 339.03 598.88 3 0.2713
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000282.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000336.jpg 418.33 433.82 599.36 600.00 3 0.6435
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000355.jpg 425.54 448.76 599.74 600.00 3 0.9622
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000355.jpg 170.56 555.77 214.09 593.67 4 0.8099
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000355.jpg 171.18 555.44 213.49 593.84 4 0.5086
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000385.jpg 0.48 532.85 110.69 599.99 3 0.6690
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000385.jpg 421.76 468.36 599.64 599.89 3 0.6230
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000449.jpg 200.41 486.79 229.11 507.52 4 0.9445
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000449.jpg 208.29 542.38 226.37 556.24 4 0.5964
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000511.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000528.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000548.jpg 361.09 364.34 379.57 397.02 1 0.7317
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000548.jpg 563.26 528.94 600.00 542.18 2 0.5339
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000592.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000630.jpg 380.12 502.27 597.56 527.16 2 0.4662
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000630.jpg 471.75 502.28 599.72 526.36 2 0.4539
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000648.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000683.jpg 187.93 478.60 227.31 501.67 4 0.9382
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000683.jpg 262.24 362.78 281.15 372.09 4 0.8286
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000683.jpg 336.61 392.16 362.53 406.17 4 0.4732
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000683.jpg 457.33 513.75 511.85 599.94 1 0.3402
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000710.jpg 343.00 71.78 376.93 217.49 1 0.7493
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_000998.jpg 431.27 376.64 452.04 396.13 4 0.4597
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001007.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001050.jpg 424.41 460.04 599.68 600.00 3 0.9034
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001076.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001090.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001103.jpg 20.66 489.15 184.56 600.00 3 0.5877
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001103.jpg 470.13 484.32 548.24 502.92 2 0.4690
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001103.jpg 342.42 357.12 371.74 381.73 4 0.2691
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001115.jpg 159.07 363.70 257.58 430.18 3 0.2637
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001173.jpg 137.89 455.22 161.43 479.78 4 0.8559
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001304.jpg 423.47 301.13 599.76 445.26 3 0.3759
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001311.jpg 160.43 453.35 327.38 474.57 2 0.8278
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001435.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001457.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001484.jpg 99.96 142.12 122.58 180.34 1 0.8608
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001484.jpg 279.77 410.13 410.00 447.39 2 0.7321
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001484.jpg 337.96 231.46 382.61 387.28 1 0.5618
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001484.jpg 278.21 54.16 292.13 79.47 1 0.3437
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001502.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001506.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001514.jpg 425.87 323.69 600.00 480.01 3 0.8652
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001514.jpg 329.65 503.58 392.79 599.91 1 0.6503
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001514.jpg 355.29 378.65 402.07 506.67 1 0.6051
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001537.jpg 487.45 553.54 526.36 578.05 4 0.9442
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001537.jpg 428.83 486.31 599.98 599.94 3 0.9217
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001537.jpg 500.76 374.45 526.62 390.88 4 0.3047
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001561.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001638.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001667.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001700.jpg 50.96 413.38 85.52 495.26 1 0.7690
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001700.jpg 0.07 484.06 57.54 500.69 2 0.7078
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001700.jpg 215.71 383.02 312.80 403.00 2 0.6996
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001708.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001734.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001772.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001796.jpg 386.88 560.39 413.56 577.70 4 0.8261
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001809.jpg 206.40 437.89 392.31 596.80 3 0.6712
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001834.jpg 225.06 344.71 269.96 484.78 1 0.7047
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001849.jpg 259.76 413.91 292.01 596.03 1 0.8669
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001849.jpg 458.68 467.59 586.73 490.99 2 0.6643
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001849.jpg 0.02 445.91 114.82 473.20 2 0.5483
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001921.jpg 109.22 291.07 286.31 399.75 3 0.3268
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001950.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001962.jpg 421.44 375.63 599.27 550.76 3 0.3857
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001962.jpg 347.84 349.23 372.13 375.90 1 0.2887
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001963.jpg 173.74 493.92 241.71 600.00 1 0.4093
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001972.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001984.jpg 238.22 323.75 257.31 335.83 4 0.8820
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_001984.jpg 232.57 535.90 298.06 600.00 4 0.7631
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002004.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002084.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002089.jpg 242.78 347.89 337.10 389.28 3 0.5150
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002142.jpg 233.48 212.93 280.97 225.50 2 0.5992
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002146.jpg 259.10 218.82 387.49 241.92 2 0.9238
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002146.jpg 235.36 167.88 264.23 176.64 2 0.9004
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002146.jpg 418.24 142.34 599.40 307.91 3 0.6524
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002192.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002196.jpg 487.45 429.69 599.80 459.27 2 0.8543
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002209.jpg 401.91 438.79 478.10 469.24 2 0.4702
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002209.jpg 116.01 516.66 284.55 543.22 2 0.4435
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002295.jpg 146.06 567.49 179.24 586.97 4 0.8110
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002368.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002402.jpg 454.24 515.92 481.89 545.09 1 0.7402
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002420.jpg 107.94 149.87 162.83 163.19 2 0.8908
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002420.jpg 411.49 245.12 599.03 392.08 3 0.8586
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002420.jpg 0.10 246.03 104.18 385.47 3 0.7137
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002420.jpg 386.66 429.43 597.06 464.88 2 0.3255
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002444.jpg 424.24 439.46 599.53 582.47 3 0.8560
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002473.jpg 235.57 425.15 295.39 466.62 4 0.9411
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002473.jpg 217.20 112.58 271.94 132.10 4 0.6181
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002606.jpg 236.47 417.23 268.70 433.89 4 0.5837
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002619.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002634.jpg 424.19 420.31 463.37 444.08 4 0.9468
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002634.jpg 185.80 491.99 218.26 517.76 4 0.8543
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002678.jpg 522.03 502.27 599.79 520.29 2 0.8363
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002678.jpg 235.20 571.65 249.33 594.42 1 0.6967
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002701.jpg 97.21 355.67 191.19 371.30 2 0.9094
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002701.jpg 311.71 457.86 466.87 589.78 1 0.6728
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002701.jpg 540.09 424.98 599.99 592.99 1 0.3623
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002737.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002740.jpg 130.97 280.25 248.49 395.70 3 0.4333
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002746.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002789.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002873.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002874.jpg 496.77 206.70 552.38 235.43 4 0.9225
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002913.jpg 0.13 558.33 164.49 599.98 3 0.3104
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002953.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_002995.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003019.jpg 65.39 428.75 224.41 598.67 3 0.6054
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003046.jpg 164.54 535.38 223.31 575.62 4 0.9506
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003046.jpg 527.89 579.44 567.46 599.99 4 0.6289
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003074.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003153.jpg 421.98 350.15 599.46 421.94 3 0.8657
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003153.jpg 26.74 473.60 71.66 500.40 4 0.7894
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003153.jpg 108.81 485.37 225.46 528.08 3 0.4244
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003211.jpg 201.81 495.07 244.31 513.08 4 0.9241
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003221.jpg 382.02 501.16 498.33 541.89 4 0.4011
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003237.jpg 137.40 119.93 156.60 144.09 1 0.6714
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003237.jpg 582.12 131.59 599.99 177.18 1 0.2805
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003257.jpg 477.61 414.17 595.41 453.43 3 0.2863
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003268.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003337.jpg 516.29 425.88 544.75 442.36 4 0.8310
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003337.jpg 0.45 85.48 48.29 106.23 2 0.4558
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003357.jpg 5.16 535.43 114.44 565.80 2 0.9330
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003357.jpg 450.81 305.38 585.39 324.15 2 0.3278
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003415.jpg 344.37 392.83 477.94 571.38 3 0.4867
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003443.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003455.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003463.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003472.jpg 206.56 494.67 261.98 533.10 4 0.9342
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003472.jpg 422.49 452.75 599.71 600.00 3 0.2666
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003520.jpg 479.45 547.60 502.86 562.57 4 0.9049
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003575.jpg 235.64 253.05 339.52 270.65 2 0.8355
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003575.jpg 574.73 508.66 600.00 524.50 2 0.5133
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003575.jpg 84.50 145.50 266.79 321.19 3 0.3824
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003594.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003605.jpg 105.31 442.29 147.52 465.95 4 0.6570
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003605.jpg 170.12 372.86 190.92 383.28 4 0.5355
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003629.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003638.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003643.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003644.jpg 426.78 438.46 599.69 600.00 3 0.2900
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003682.jpg 321.54 462.22 361.47 488.50 4 0.8835
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003757.jpg 75.18 426.94 307.48 454.46 2 0.3236
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003758.jpg 455.88 464.32 487.02 481.09 4 0.4609
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003758.jpg 223.77 463.74 388.29 600.00 3 0.3420
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003779.jpg 332.45 675.66 372.64 701.45 4 0.8420
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003800.jpg 433.42 577.40 467.23 599.77 4 0.9130
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003800.jpg 0.01 551.81 13.75 578.95 4 0.3642
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003801.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003814.jpg 0.00 474.24 171.56 600.00 3 0.3609
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003830.jpg 301.33 491.88 437.30 522.98 2 0.6287
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003845.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003864.jpg 225.10 485.09 245.84 551.17 1 0.6445
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003864.jpg 104.43 481.07 176.34 554.94 3 0.5432
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003864.jpg 336.60 545.50 412.77 599.95 3 0.2868
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003888.jpg 0.00 333.10 106.20 473.08 3 0.5864
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003888.jpg 492.37 406.37 600.00 425.08 2 0.4105
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003909.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_003978.jpg 489.40 374.78 541.36 392.30 4 0.2920
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004026.jpg 395.86 459.55 420.21 478.59 4 0.8206
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004026.jpg 150.72 471.73 200.96 501.49 4 0.8198
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004038.jpg 502.20 405.42 600.00 446.04 2 0.5843
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004038.jpg 0.11 332.64 106.74 365.70 2 0.4911
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004038.jpg 502.27 405.88 599.96 445.54 2 0.3840
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004038.jpg 425.14 117.61 600.00 294.19 3 0.3532
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004040.jpg 489.06 527.37 528.37 565.03 1 0.8211
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004062.jpg 480.16 477.01 512.58 494.74 4 0.9458
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004094.jpg 152.67 299.64 327.78 475.77 3 0.5627
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004143.jpg 424.43 520.73 544.36 548.26 2 0.7537
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004143.jpg 87.47 299.51 200.79 363.29 3 0.5479
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004143.jpg 420.26 396.67 480.03 460.58 1 0.4505
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004143.jpg 314.11 400.38 341.68 414.12 4 0.4402
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004166.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004175.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004216.jpg 226.51 348.35 275.02 414.69 3 0.3731
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004246.jpg 168.10 472.64 272.10 600.00 1 0.8514
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004284.jpg 463.38 520.58 486.73 535.83 4 0.7980
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004284.jpg 396.11 369.32 424.86 382.01 4 0.3844
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004355.jpg 69.95 536.11 110.48 559.21 4 0.8262
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004387.jpg 114.62 327.08 147.42 394.84 1 0.8938
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004387.jpg 480.20 443.98 600.00 468.27 2 0.8509
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004387.jpg 298.69 485.83 334.70 600.00 1 0.8489
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004387.jpg 1.14 496.11 70.96 599.79 1 0.8332
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004387.jpg 67.45 450.97 217.53 486.08 2 0.4303
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004387.jpg 42.69 396.74 100.01 486.20 1 0.3868
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004474.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004503.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004549.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004571.jpg 462.98 238.09 567.96 275.49 4 0.7708
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004571.jpg 450.28 88.39 480.53 112.33 4 0.6050
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004571.jpg 100.89 545.83 137.39 600.00 1 0.3705
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004571.jpg 431.46 27.17 544.25 78.68 4 0.3456
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004586.jpg 377.28 342.45 414.15 363.06 4 0.3550
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004586.jpg 391.97 409.28 432.35 436.82 4 0.3334
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004601.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004615.jpg 86.85 732.74 153.48 784.83 4 0.9564
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004618.jpg 212.98 401.66 286.03 418.98 2 0.3405
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004618.jpg 154.50 394.52 200.72 585.22 1 0.3391
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004720.jpg 281.54 402.05 307.13 416.12 4 0.9356
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004720.jpg 422.68 389.88 599.68 536.52 3 0.8137
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004720.jpg 0.43 399.70 135.82 563.84 3 0.3035
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004751.jpg 263.26 438.59 310.55 461.90 3 0.7206
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004801.jpg 296.28 466.25 312.57 514.18 1 0.6786
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004827.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004858.jpg 278.99 164.17 408.70 191.76 2 0.6675
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004885.jpg 352.44 438.58 374.34 458.55 4 0.8408
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004885.jpg 269.17 406.71 302.25 421.58 4 0.6508
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004885.jpg 401.98 424.20 417.97 436.29 4 0.2977
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004957.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004958.jpg 260.77 439.70 286.68 473.11 4 0.9071
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004958.jpg 68.42 430.04 121.44 468.67 4 0.7573
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_004958.jpg 0.00 514.00 57.44 599.83 3 0.6396
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005013.jpg 521.24 377.25 600.00 500.16 3 0.4102
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005136.jpg 300.69 370.64 416.01 387.81 2 0.5284
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005173.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005182.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005186.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005216.jpg 405.36 532.77 520.79 562.53 2 0.4455
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005216.jpg 495.34 468.90 546.29 537.13 1 0.3528
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005405.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005414.jpg 404.26 420.30 451.65 444.54 4 0.8324
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005414.jpg 311.82 576.57 356.05 600.00 4 0.5292
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005472.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005519.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005529.jpg 493.44 493.50 554.65 530.22 4 0.8642
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005529.jpg 441.47 494.11 457.27 520.77 1 0.2704
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005537.jpg 427.04 166.12 599.71 316.96 3 0.7917
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005566.jpg 378.20 367.53 406.64 382.84 4 0.6216
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005566.jpg 378.25 367.36 406.64 382.75 4 0.3758
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005577.jpg 303.46 1026.94 369.94 1076.55 4 0.7407
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005586.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005679.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005739.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005763.jpg 427.00 184.47 545.21 228.20 4 0.9372
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005824.jpg 309.46 563.56 414.84 600.00 3 0.5726
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005824.jpg 478.63 404.79 524.54 421.31 4 0.3610
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005824.jpg 431.17 491.92 445.88 514.41 4 0.3508
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005824.jpg 309.46 563.56 414.84 600.00 4 0.2978
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005824.jpg 420.05 583.17 447.35 599.33 4 0.2605
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005828.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005869.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005889.jpg 180.00 191.15 236.29 279.42 1 0.7274
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005925.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005948.jpg 193.69 555.80 283.43 581.25 2 0.7827
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005948.jpg 193.76 553.76 282.79 580.98 2 0.5347
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_005991.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006019.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006020.jpg 0.00 388.58 52.99 515.40 1 0.8489
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006020.jpg 1.59 363.90 168.98 385.03 2 0.5274
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006022.jpg 249.29 328.89 428.37 377.57 3 0.8487
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006065.jpg 418.25 450.98 598.73 600.00 3 0.3247
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006105.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006175.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006182.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006218.jpg 229.92 531.23 247.45 556.33 4 0.7990
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006279.jpg 0.83 306.86 166.42 342.32 2 0.4115
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006282.jpg 184.10 452.56 267.86 472.80 2 0.6593
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006333.jpg 381.09 117.73 401.85 154.47 1 0.9074
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006333.jpg 131.36 160.40 266.54 179.18 2 0.8948
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006333.jpg 245.18 81.18 278.93 128.59 1 0.8678
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006333.jpg 381.00 59.24 401.52 95.18 1 0.4861
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006388.jpg 318.15 319.47 331.86 331.74 4 0.3777
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006400.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006405.jpg 350.35 575.34 426.28 600.00 3 0.6595
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006405.jpg 389.03 409.96 432.24 435.80 4 0.4465
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006432.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006515.jpg 222.61 472.65 259.22 592.09 1 0.9004
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006545.jpg 338.93 520.43 425.86 573.48 4 0.5033
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006545.jpg 351.42 523.85 425.67 572.95 4 0.3326
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006591.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006600.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006713.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006731.jpg 577.32 59.39 599.73 84.99 4 0.8335
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006731.jpg 474.76 542.87 515.20 577.00 4 0.6216
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006779.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006811.jpg 464.41 580.84 598.04 600.00 2 0.8958
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006811.jpg 226.29 336.71 249.07 373.88 1 0.6609
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006811.jpg 289.03 446.64 479.59 583.55 3 0.4904
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006824.jpg 676.45 755.38 707.10 775.08 4 0.9095
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006824.jpg 731.80 731.89 794.69 757.72 4 0.4058
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006825.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006877.jpg 97.70 447.87 250.08 475.64 2 0.4904
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006901.jpg 391.13 350.37 438.67 360.30 2 0.6132
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006901.jpg 350.53 326.32 439.80 364.73 3 0.3959
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006932.jpg 359.51 424.51 456.39 436.64 2 0.5409
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006932.jpg 290.26 514.12 357.65 527.94 2 0.2776
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006971.jpg 512.25 460.55 530.24 470.26 4 0.8267
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_006978.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007089.jpg 219.24 176.39 387.28 197.74 2 0.6512
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007117.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007120.jpg 269.08 372.44 293.34 443.04 1 0.9112
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007120.jpg 0.25 448.29 31.38 507.43 1 0.7213
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007120.jpg 41.03 365.66 190.03 387.27 2 0.5773
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007171.jpg 238.46 162.21 266.33 211.57 1 0.7149
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007171.jpg 355.40 338.98 451.90 374.12 2 0.7101
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007171.jpg 244.94 110.78 410.77 132.18 2 0.3974
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007171.jpg 302.32 77.30 387.33 90.80 2 0.3091
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007207.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007226.jpg 37.60 290.21 99.72 363.93 1 0.9346
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007226.jpg 172.01 58.78 223.73 155.09 1 0.8291
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007226.jpg 211.38 369.06 328.05 406.78 2 0.3527
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007226.jpg 224.86 115.75 314.95 131.56 2 0.3033
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007263.jpg 384.80 0.27 539.64 147.81 3 0.2650
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007276.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007325.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007340.jpg 164.71 547.06 198.25 580.78 4 0.8234
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007357.jpg 333.10 455.01 398.91 498.73 3 0.3930
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007364.jpg 877.86 728.63 938.29 781.12 4 0.9363
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007364.jpg 483.78 367.00 557.19 411.11 4 0.9065
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007364.jpg 886.85 582.49 960.80 636.94 4 0.6023
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007364.jpg 885.32 530.65 1004.21 594.27 4 0.3117
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007414.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007434.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007445.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007454.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007521.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007527.jpg 391.59 373.41 437.89 385.14 2 0.8880
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007527.jpg 0.00 511.56 102.70 531.20 2 0.6886
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007527.jpg 466.70 464.41 564.47 487.05 2 0.5933
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007527.jpg 454.58 377.48 494.71 390.85 2 0.5650
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007527.jpg 349.62 363.50 400.25 413.58 1 0.4550
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007527.jpg 0.05 509.73 104.09 531.22 2 0.2852
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007579.jpg 133.57 549.80 155.93 570.45 4 0.8965
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007579.jpg 128.68 507.28 168.36 544.05 4 0.7932
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007579.jpg 414.68 437.83 599.74 600.00 3 0.3363
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007598.jpg 1.58 487.14 181.92 513.68 2 0.5986
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007598.jpg 285.37 417.12 421.27 437.06 2 0.5500
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007640.jpg 364.60 557.00 453.83 592.98 1 0.3949
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007640.jpg 364.60 557.00 453.83 592.98 2 0.2535
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007650.jpg 290.80 411.07 315.67 491.53 1 0.4129
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007650.jpg 301.48 551.61 403.42 584.96 2 0.2957
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007659.jpg 372.68 281.40 426.45 358.15 1 0.5558
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007832.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007841.jpg 219.50 426.95 264.09 448.88 4 0.8272
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007841.jpg 249.02 459.61 278.20 478.18 4 0.2737
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007875.jpg 169.17 214.78 194.52 271.14 1 0.8144
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007875.jpg 21.13 474.84 124.42 498.31 2 0.7674
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007875.jpg 19.67 475.09 124.58 498.24 2 0.4106
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007912.jpg 316.40 115.10 333.27 145.16 1 0.8014
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007912.jpg 110.34 441.98 194.19 478.35 2 0.3988
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007912.jpg 424.13 147.99 599.54 288.97 3 0.2590
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007916.jpg 437.75 391.15 599.37 553.13 3 0.6780
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007916.jpg 325.07 448.55 479.31 469.03 2 0.2739
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007924.jpg 565.06 541.06 599.97 555.97 2 0.8355
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007924.jpg 27.48 548.94 143.52 599.38 2 0.2669
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007926.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007987.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_007989.jpg 193.83 320.95 215.06 359.42 1 0.8783
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008010.jpg 164.47 414.34 228.28 519.17 1 0.8739
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008010.jpg 464.98 459.42 535.31 474.23 2 0.6743
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008052.jpg 429.25 487.06 599.95 600.00 3 0.8979
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008052.jpg 498.69 544.29 524.94 558.74 4 0.5848
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008052.jpg 504.69 558.74 534.76 573.56 4 0.4181
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008104.jpg 447.34 359.83 524.29 374.16 2 0.2775
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008148.jpg 404.29 501.22 468.13 579.36 1 0.9615
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008148.jpg 262.66 522.74 395.58 539.30 2 0.6787
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008159.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008220.jpg 778.35 556.14 823.38 595.02 4 0.8344
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008220.jpg 107.97 289.78 132.93 308.57 4 0.6508
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008220.jpg 860.87 342.78 887.37 361.14 4 0.3877
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008234.jpg 245.68 496.08 304.99 599.91 1 0.3242
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008234.jpg 235.87 536.50 346.25 556.83 2 0.3234
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008249.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008287.jpg 538.22 445.16 570.84 463.28 4 0.9264
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008287.jpg 195.19 342.67 238.43 359.46 4 0.4563
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008287.jpg 148.72 393.99 168.46 403.78 4 0.4320
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008288.jpg 308.33 500.46 416.28 600.00 3 0.4856
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008288.jpg 430.07 493.96 483.27 504.72 2 0.4471
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008309.jpg 197.30 100.14 263.71 179.24 3 0.6872
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008309.jpg 264.52 104.67 403.70 123.55 2 0.3474
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008309.jpg 197.30 100.14 263.71 179.24 1 0.3331
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008313.jpg 279.77 415.86 314.39 437.12 4 0.2868
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008351.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008375.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008424.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008613.jpg 337.72 439.04 359.07 485.90 1 0.5758
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008614.jpg 216.80 488.61 236.38 509.42 4 0.9233
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008614.jpg 437.03 529.09 454.90 540.99 4 0.8518
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008614.jpg 481.14 491.27 502.05 503.56 4 0.8478
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008614.jpg 412.26 447.50 599.54 600.00 3 0.3247
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008639.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008667.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008673.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008698.jpg 287.74 560.27 340.29 591.80 4 0.9205
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008698.jpg 419.47 419.41 596.72 598.91 3 0.3341
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008703.jpg 431.91 317.64 549.81 344.77 2 0.5482
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008703.jpg 169.86 72.87 224.09 193.03 1 0.3293
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008714.jpg 648.88 261.56 685.15 287.22 4 0.8437
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008714.jpg 719.43 179.81 1023.33 371.35 3 0.5499
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008714.jpg 767.68 226.07 793.32 244.37 4 0.5046
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008714.jpg 717.22 180.23 1023.01 375.18 3 0.3571
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008718.jpg 343.37 138.34 402.55 229.73 1 0.7452
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008718.jpg 108.25 308.05 160.51 408.11 1 0.6489
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008730.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008746.jpg 167.70 269.27 186.12 285.43 1 0.4913
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008746.jpg 10.73 304.82 218.17 471.01 3 0.4139
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008755.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008761.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008815.jpg 123.03 140.32 166.13 150.85 2 0.8723
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008815.jpg 349.31 126.39 410.37 178.61 1 0.4162
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008845.jpg 0.00 576.07 75.40 595.60 2 0.3181
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008862.jpg 66.68 412.73 213.31 489.75 3 0.2920
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008908.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008936.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008988.jpg 188.85 420.70 243.86 462.73 4 0.8981
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008990.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008993.jpg 329.66 509.88 360.71 578.23 1 0.6237
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_008993.jpg 502.57 457.22 599.98 526.37 3 0.4505
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009049.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009091.jpg 17.16 356.82 138.69 379.34 2 0.8688
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009091.jpg 422.27 413.17 598.68 450.36 2 0.5386
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009091.jpg 211.65 343.98 254.47 393.13 1 0.3035
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009108.jpg 216.21 51.10 359.36 191.38 3 0.3856
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009108.jpg 411.02 38.01 429.97 60.70 1 0.3176
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009108.jpg 416.55 217.49 599.18 401.08 3 0.2916
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009118.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009121.jpg 390.19 461.10 416.08 563.60 1 0.3985
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009127.jpg 537.97 470.51 556.39 508.83 1 0.8457
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009127.jpg 140.72 500.68 170.42 598.74 1 0.7597
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009127.jpg 140.14 434.99 179.57 522.51 1 0.5997
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009127.jpg 226.32 428.37 256.34 524.31 1 0.5473
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009127.jpg 577.98 519.04 599.60 549.58 4 0.4511
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009181.jpg 419.38 468.10 599.54 600.00 3 0.9628
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009181.jpg 158.37 553.28 255.61 599.98 2 0.7514
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009181.jpg 268.58 450.02 282.89 460.61 4 0.3809
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009215.jpg 394.17 545.36 424.37 563.39 4 0.9444
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009215.jpg 576.64 514.65 600.00 540.87 4 0.7850
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009215.jpg 425.36 455.04 599.71 600.00 3 0.2522
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009279.jpg 378.70 333.11 409.52 352.60 4 0.3207
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009341.jpg 206.16 99.26 233.76 129.28 1 0.6906
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009398.jpg 504.51 500.32 600.00 549.62 3 0.4044
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009411.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009427.jpg 226.17 478.28 254.59 501.14 4 0.9431
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009427.jpg 197.97 444.83 224.89 460.14 4 0.8795
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009427.jpg 231.04 521.33 253.72 533.46 4 0.6711
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009427.jpg 19.63 393.19 47.62 409.01 4 0.6322
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009427.jpg 196.17 518.74 227.64 531.65 4 0.4066
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009439.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009542.jpg 150.96 291.74 237.80 391.93 3 0.8971
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009542.jpg 270.97 334.73 347.34 396.47 3 0.8951
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009542.jpg 375.55 334.07 417.50 343.97 2 0.6716
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009644.jpg 414.58 535.24 456.08 559.28 4 0.8579
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009655.jpg 0.00 276.84 33.45 454.70 1 0.7941
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009659.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009660.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009676.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009698.jpg 412.82 418.04 436.51 430.60 4 0.8590
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009698.jpg 302.09 470.34 323.11 490.35 4 0.8189
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009698.jpg 405.76 439.51 598.80 600.00 3 0.4315
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009698.jpg 412.85 417.83 440.57 432.12 4 0.3957
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009701.jpg 324.18 374.30 394.82 471.32 1 0.2860
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009702.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009719.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009765.jpg 133.59 554.36 196.06 599.87 4 0.8120
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009765.jpg 419.61 570.27 452.80 597.56 4 0.3701
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009765.jpg 362.36 583.28 379.84 597.76 4 0.2554
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009770.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009789.jpg 469.41 369.93 523.02 391.95 4 0.9045
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009789.jpg 443.96 379.65 470.82 398.27 4 0.4768
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009789.jpg 259.23 393.68 350.16 425.59 3 0.2914
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009796.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009798.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009882.jpg 423.73 396.37 438.95 406.83 4 0.8298
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009882.jpg 450.73 408.19 487.58 428.59 4 0.7488
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_009882.jpg 409.68 360.69 599.20 527.96 3 0.7278
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010062.jpg 348.38 401.04 444.35 462.58 3 0.2727
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010077.jpg 439.15 247.65 600.00 272.37 2 0.5593
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010099.jpg 258.44 545.65 345.53 563.33 2 0.4820
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010102.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010122.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010191.jpg 661.93 583.69 704.51 620.16 4 0.9087
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010191.jpg 548.89 549.77 593.41 588.81 4 0.8907
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010191.jpg 137.48 537.66 168.21 564.20 4 0.8767
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010191.jpg 132.72 264.13 165.52 288.20 4 0.5860
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010219.jpg 936.74 629.63 979.20 667.43 4 0.9306
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010219.jpg 942.76 759.67 1024.00 853.75 4 0.7246
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010231.jpg 387.67 540.01 427.74 558.64 4 0.5664
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010255.jpg 210.36 323.71 242.77 380.63 3 0.3758
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010255.jpg 268.47 319.17 368.88 380.76 3 0.2722
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010288.jpg 423.95 474.54 599.52 600.00 3 0.6942
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010289.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010295.jpg 356.89 491.22 393.68 515.13 4 0.9328
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010295.jpg 185.21 408.87 217.56 420.90 4 0.5242
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010341.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010365.jpg 166.75 514.69 208.31 599.90 1 0.8568
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010381.jpg 382.01 207.68 394.11 233.34 1 0.5847
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010381.jpg 274.04 373.53 483.74 399.98 2 0.5572
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010381.jpg 361.29 393.03 397.92 414.45 1 0.4062
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010390.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010423.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010444.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010445.jpg 264.71 194.60 279.86 215.69 1 0.3291
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010463.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010486.jpg 59.31 383.63 73.12 397.96 1 0.2642
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010491.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010495.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010549.jpg 388.97 500.72 524.72 532.34 2 0.5215
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010549.jpg 395.92 421.46 424.75 460.71 1 0.5123
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010549.jpg 337.14 436.75 408.28 600.00 1 0.3937
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010591.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010627.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010631.jpg 422.33 449.16 599.80 600.00 3 0.9462
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010656.jpg 348.53 438.45 369.87 483.58 1 0.8757
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010695.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010769.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010779.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010834.jpg 184.18 319.81 321.69 404.10 3 0.9460
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010838.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010868.jpg 532.09 524.05 600.00 545.15 2 0.4363
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010945.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010979.jpg 423.90 374.54 599.62 539.03 3 0.6006
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_010979.jpg 0.00 477.51 140.32 600.00 3 0.4056
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011001.jpg 444.18 254.41 547.85 273.31 2 0.4064
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011036.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011063.jpg 300.31 398.07 326.46 427.67 4 0.7985
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011063.jpg 304.23 410.17 326.30 427.21 4 0.5578
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011131.jpg 219.32 112.97 324.10 170.99 3 0.5120
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011156.jpg 300.43 381.74 462.49 409.49 2 0.3667
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011202.jpg 363.91 511.11 419.60 542.50 4 0.8980
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011202.jpg 293.66 435.21 312.40 454.79 4 0.6788
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011202.jpg 169.50 378.02 306.79 448.60 3 0.6349
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011202.jpg 352.94 422.90 382.78 437.35 4 0.4221
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011202.jpg 231.74 465.62 258.52 478.46 4 0.3318
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011203.jpg 269.24 503.53 376.16 543.75 2 0.4101
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011203.jpg 151.64 283.65 206.60 374.56 1 0.2904
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011274.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011283.jpg 359.44 498.11 409.00 530.28 4 0.9298
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011321.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011329.jpg 160.33 453.18 286.66 475.69 2 0.8770
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011329.jpg 182.64 405.87 252.55 420.12 2 0.5514
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011350.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011372.jpg 242.30 568.44 275.44 589.91 4 0.5401
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011372.jpg 237.75 568.86 275.71 599.63 4 0.3218
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011412.jpg 158.90 325.44 191.18 386.22 1 0.4579
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011419.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011427.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011515.jpg 503.99 432.10 541.29 459.37 4 0.8047
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011600.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011661.jpg 430.51 496.93 472.75 519.04 4 0.9302
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011661.jpg 506.83 315.69 579.91 342.89 4 0.8186
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011666.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011678.jpg 217.30 297.97 237.89 378.93 1 0.8901
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011678.jpg 123.01 293.30 220.14 307.30 2 0.7834
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011678.jpg 2.14 493.65 137.15 523.53 2 0.4291
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011678.jpg 214.85 331.15 248.99 500.58 1 0.3995
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011678.jpg 214.76 320.09 249.05 501.54 1 0.3875
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011702.jpg 539.73 282.93 569.91 350.49 1 0.4580
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011702.jpg 366.79 150.49 480.51 167.63 2 0.4212
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011702.jpg 452.96 52.79 599.87 174.99 3 0.3129
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011725.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011744.jpg 190.99 319.00 211.72 361.84 1 0.7033
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011744.jpg 39.19 422.39 136.34 486.04 3 0.2604
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011822.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011844.jpg 327.90 495.36 393.31 512.84 2 0.8601
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011849.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011881.jpg 155.23 513.03 173.03 532.41 4 0.8784
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011907.jpg 46.42 495.52 85.59 559.08 1 0.8501
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011907.jpg 498.31 472.00 599.61 493.94 2 0.6816
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011907.jpg 98.33 428.30 276.63 462.55 2 0.4293
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011913.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011914.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011924.jpg 304.34 576.79 341.61 600.00 4 0.7002
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011924.jpg 346.93 566.47 411.24 599.80 4 0.5727
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011924.jpg 527.18 449.84 565.70 466.96 4 0.4552
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011924.jpg 403.55 546.69 434.97 572.84 4 0.3109
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011924.jpg 0.00 324.17 24.81 399.28 1 0.2595
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_011995.jpg 583.79 542.05 600.00 572.17 3 0.5025
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012015.jpg 594.87 156.15 639.06 193.67 4 0.9124
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012015.jpg 586.27 112.90 640.01 146.68 4 0.8970
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012015.jpg 578.02 247.55 625.82 275.58 4 0.2791
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012101.jpg 0.73 487.59 145.37 506.17 2 0.2931
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012120.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012133.jpg 90.06 453.96 120.71 471.34 4 0.4382
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012133.jpg 301.22 348.15 417.41 428.28 3 0.3248
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012133.jpg 529.87 547.98 600.00 600.00 3 0.2518
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012158.jpg 416.94 475.19 599.17 598.05 3 0.9807
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012207.jpg 450.58 459.43 600.00 600.00 3 0.9635
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012289.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012290.jpg 424.33 209.63 457.80 241.35 4 0.4708
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012304.jpg 96.58 556.24 313.60 581.50 2 0.6043
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012304.jpg 59.35 504.79 159.86 600.00 1 0.2906
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012304.jpg 117.23 503.69 223.56 521.65 2 0.2826
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012322.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012353.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012381.jpg 350.79 544.14 383.28 571.45 4 0.8560
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012399.jpg 221.36 354.34 271.02 368.50 4 0.9288
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012399.jpg 82.22 475.97 113.32 495.96 4 0.8899
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012399.jpg 0.63 425.98 157.86 599.82 3 0.8272
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012429.jpg 202.06 486.06 222.47 499.01 4 0.8825
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012476.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012521.jpg 535.70 567.98 554.67 580.21 4 0.6870
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012521.jpg 421.42 449.03 599.55 600.00 3 0.4596
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012585.jpg 184.16 107.85 204.99 148.12 1 0.8718
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012585.jpg 109.93 0.07 257.38 155.28 3 0.6024
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012631.jpg 314.02 118.40 326.55 130.98 4 0.7481
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012631.jpg 559.92 484.89 599.89 505.59 2 0.5361
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012631.jpg 475.18 211.82 505.44 222.48 2 0.3222
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012631.jpg 0.25 470.22 86.80 498.64 2 0.3119
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012714.jpg 12.95 493.70 212.49 600.00 3 0.6019
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012757.jpg 374.17 537.66 466.10 576.94 2 0.7128
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012810.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012848.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012854.jpg 0.04 356.06 126.03 415.55 3 0.9219
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012861.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012971.jpg 318.60 471.20 480.15 495.94 2 0.4397
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012971.jpg 161.79 344.03 198.60 483.25 1 0.3449
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_012996.jpg 255.38 340.13 275.25 349.91 4 0.8485
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_013064.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_013067.jpg 461.69 400.36 586.89 421.19 2 0.5457
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_013078.jpg 219.39 385.56 263.12 405.72 3 0.2689
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_013097.jpg 444.43 341.40 495.53 449.96 1 0.5171
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country2_013122.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000020.jpg 355.58 403.40 471.79 573.59 3 0.6408
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000034.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000048.jpg 259.81 389.47 289.56 540.34 1 0.8492
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000048.jpg 197.07 479.01 267.42 496.60 2 0.2514
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000057.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000066.jpg 235.78 468.43 264.55 498.16 1 0.8020
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000085.jpg 5.40 442.60 130.41 457.65 2 0.9107
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000090.jpg 463.32 593.14 522.67 605.82 2 0.5551
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000092.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000095.jpg 503.06 503.60 639.74 526.28 2 0.4418
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000129.jpg 128.14 423.66 273.38 441.85 2 0.2812
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000136.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000147.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000154.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000170.jpg 553.41 547.59 639.32 622.70 1 0.8786
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000170.jpg 434.67 541.04 535.55 563.75 2 0.8319
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000178.jpg 231.90 425.54 264.57 478.82 1 0.5474
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000214.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000217.jpg 518.82 491.34 546.26 510.46 4 0.2814
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000238.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000259.jpg 610.69 581.00 639.97 618.65 1 0.7635
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000266.jpg 347.01 409.44 368.30 427.36 1 0.2654
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000267.jpg 514.60 533.07 540.12 548.82 4 0.8639
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000278.jpg 483.44 526.29 518.80 554.95 1 0.5673
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000281.jpg 0.00 592.53 59.07 605.44 2 0.7825
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000311.jpg 356.03 464.58 434.67 560.01 1 0.3102
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000324.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000332.jpg 365.93 448.61 380.82 481.19 1 0.8042
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000338.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000357.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000360.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000380.jpg 0.00 602.20 66.25 616.63 2 0.8967
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000382.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000388.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000410.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000417.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000425.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000433.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000436.jpg 0.18 601.17 47.66 617.72 2 0.3196
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000440.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000467.jpg 237.05 462.87 307.48 481.72 2 0.8406
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000494.jpg 211.95 412.04 256.82 548.21 1 0.6580
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000500.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000518.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000520.jpg 294.92 369.53 384.08 453.68 1 0.3757
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000532.jpg 448.78 479.25 639.26 639.96 3 0.5296
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000543.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000569.jpg 459.02 586.10 639.83 627.00 2 0.6530
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000570.jpg 192.80 440.54 220.54 513.85 1 0.9574
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000570.jpg 259.84 435.90 277.65 508.61 1 0.7992
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000583.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000585.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000592.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000611.jpg 0.02 557.44 95.02 579.31 2 0.8975
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000614.jpg 0.51 563.68 175.77 593.29 2 0.3401
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000620.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000664.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000729.jpg 227.18 581.75 327.03 602.81 2 0.8472
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000729.jpg 227.20 581.87 327.62 603.33 2 0.3508
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000738.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000741.jpg 446.47 438.68 638.90 620.22 3 0.2868
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000742.jpg 362.73 437.96 501.89 455.12 2 0.2562
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000753.jpg 210.30 485.09 253.66 639.27 1 0.6166
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000756.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000795.jpg 241.94 421.91 396.81 605.12 3 0.6090
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000801.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000808.jpg 231.18 424.30 361.02 452.13 2 0.4132
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000808.jpg 293.78 483.45 342.61 639.47 1 0.3177
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000840.jpg 370.59 501.99 454.46 639.91 3 0.6043
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000848.jpg 1.31 388.70 113.91 444.03 1 0.5712
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000848.jpg 11.23 553.17 136.04 569.46 2 0.4298
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000848.jpg 0.00 552.23 135.39 568.98 2 0.3743
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000877.jpg 277.04 359.88 293.43 475.15 1 0.8270
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000885.jpg 28.11 562.35 62.95 620.99 1 0.9270
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000885.jpg 230.46 473.85 303.95 490.94 2 0.8292
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000885.jpg 471.23 440.22 557.86 504.58 1 0.2551
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000894.jpg 0.00 597.73 86.99 617.97 2 0.8921
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000897.jpg 604.80 539.39 640.00 616.96 1 0.9422
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000933.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000934.jpg 0.00 589.63 101.21 607.41 2 0.8432
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000938.jpg 36.78 570.77 62.43 621.46 1 0.7498
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000938.jpg 414.39 584.26 453.03 640.00 1 0.4930
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000948.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000967.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_000969.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001005.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001011.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001035.jpg 481.49 503.54 639.80 521.01 2 0.3681
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001036.jpg 196.38 450.56 231.89 591.50 1 0.5131
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001038.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001050.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001064.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001080.jpg 464.89 566.12 592.46 583.21 2 0.2666
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001086.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001094.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001100.jpg 346.30 442.86 452.26 462.95 2 0.2953
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001110.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001117.jpg 444.92 449.58 638.71 634.65 3 0.6545
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001123.jpg 272.98 375.35 281.53 389.75 1 0.2676
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001135.jpg 0.00 428.35 136.89 442.54 2 0.3251
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001135.jpg 424.95 448.86 544.50 611.24 1 0.2781
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001139.jpg 173.67 383.95 189.23 423.05 1 0.8901
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001181.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001185.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001192.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001198.jpg 41.47 19.59 114.51 76.86 4 0.9205
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001204.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001205.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001206.jpg 205.46 416.50 235.13 535.09 1 0.5021
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001206.jpg 93.49 556.43 223.95 578.98 2 0.2530
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001215.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001228.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001232.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001239.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001252.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001253.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001264.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001280.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001284.jpg 166.93 541.85 193.35 586.87 1 0.8311
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001302.jpg 125.53 430.46 138.92 456.58 1 0.7220
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001320.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001329.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001331.jpg 430.92 441.83 467.31 473.17 1 0.7977
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001331.jpg 102.96 437.47 173.00 504.10 1 0.5843
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001338.jpg 235.68 446.75 254.91 490.49 1 0.2722
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001342.jpg 253.90 429.21 297.36 507.25 1 0.9358
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001356.jpg 102.31 367.07 210.43 452.20 1 0.9188
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001356.jpg 303.58 434.47 351.56 548.17 1 0.3825
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001357.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001360.jpg 193.02 381.79 224.35 451.00 1 0.3948
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001365.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001366.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001377.jpg 226.16 536.59 267.02 639.94 1 0.7253
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001377.jpg 271.32 567.04 403.21 598.04 2 0.5513
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001382.jpg 44.44 549.40 101.38 620.32 1 0.9489
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001407.jpg 487.60 512.46 640.00 536.09 2 0.8339
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001421.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001427.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001432.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001439.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001444.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001454.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001472.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001476.jpg 209.21 454.57 225.77 503.20 1 0.7264
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001476.jpg 208.72 502.30 230.77 533.23 1 0.6647
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001476.jpg 1.31 500.48 201.95 549.77 2 0.4441
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001483.jpg 179.99 509.34 190.62 528.26 1 0.5033
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001489.jpg 580.58 560.40 640.00 587.24 2 0.2705
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001496.jpg 211.94 505.62 255.74 513.68 2 0.4691
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001521.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001523.jpg 143.23 586.88 161.47 640.00 1 0.7013
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001523.jpg 478.39 596.09 521.45 639.79 1 0.5093
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001550.jpg 365.73 448.59 475.46 465.81 2 0.3315
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001581.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001601.jpg 476.60 556.55 518.19 607.36 3 0.3633
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001601.jpg 221.54 382.60 275.52 529.19 1 0.2632
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001616.jpg 1.13 536.23 121.23 555.45 2 0.3552
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001617.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001637.jpg 3.13 527.38 141.65 544.77 2 0.7288
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001637.jpg 134.82 403.05 200.70 533.80 1 0.4020
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001668.jpg 259.28 478.58 301.61 553.77 1 0.6248
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001668.jpg 163.27 423.87 331.59 454.31 2 0.5002
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001674.jpg 25.50 532.33 86.09 546.13 2 0.3537
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001688.jpg 411.04 466.38 595.06 483.30 2 0.2704
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001689.jpg 235.67 512.04 251.93 525.08 4 0.9008
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001702.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001723.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001732.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001745.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001764.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001803.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001806.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001856.jpg 547.08 625.55 566.86 640.00 1 0.2820
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001874.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001893.jpg 396.40 532.25 494.42 554.43 2 0.4916
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001908.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001914.jpg 281.67 418.72 369.93 570.10 1 0.8183
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001914.jpg 0.03 437.71 46.91 449.50 2 0.7949
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001966.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001970.jpg 29.22 460.50 101.43 578.62 1 0.4758
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001971.jpg 135.18 551.56 221.84 639.58 1 0.7764
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001971.jpg 591.98 549.10 640.00 562.89 2 0.3405
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001971.jpg 268.35 488.12 307.53 558.31 1 0.2899
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001999.jpg 441.26 469.70 516.90 639.81 1 0.8881
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001999.jpg 216.96 550.33 287.85 639.96 1 0.8562
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_001999.jpg 239.54 485.34 354.06 638.99 1 0.3492
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002012.jpg 387.05 374.11 403.60 417.13 1 0.9109
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002012.jpg 420.46 410.41 452.66 548.46 1 0.6414
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002033.jpg 207.75 365.66 218.78 397.64 1 0.6923
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002054.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002066.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002068.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002071.jpg 178.15 373.54 245.12 415.60 1 0.7989
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002071.jpg 330.64 366.72 339.21 384.40 1 0.4249
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002096.jpg 310.42 519.25 322.38 545.53 1 0.4817
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002100.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002102.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002117.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002122.jpg 0.00 566.14 71.97 586.55 2 0.5094
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002135.jpg 376.67 350.83 402.37 373.74 3 0.4497
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002153.jpg 2.80 508.43 66.51 621.93 1 0.8582
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002153.jpg 113.39 481.57 159.93 490.46 2 0.2699
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002163.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002164.jpg 0.83 381.95 192.65 518.95 3 0.2552
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002180.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002191.jpg 466.46 472.00 639.59 635.26 3 0.8425
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002191.jpg 81.95 526.71 113.28 586.58 1 0.7972
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002193.jpg 126.51 547.37 246.24 568.66 2 0.9233
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002217.jpg 215.92 524.14 258.82 618.30 1 0.3691
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002217.jpg 204.70 437.57 220.85 465.04 1 0.3312
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002228.jpg 148.69 400.48 183.15 452.78 1 0.3982
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002245.jpg 358.73 381.82 381.66 404.47 1 0.5971
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002245.jpg 283.59 362.85 294.33 396.85 1 0.3520
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002245.jpg 125.48 420.85 355.71 440.69 2 0.3415
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002245.jpg 197.24 420.85 360.90 440.83 2 0.3084
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002253.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002255.jpg 108.24 539.54 133.67 555.32 4 0.4354
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002255.jpg 253.83 407.94 388.36 428.46 2 0.4352
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002255.jpg 77.90 383.45 133.88 429.82 1 0.3790
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002255.jpg 163.74 407.85 386.00 431.59 2 0.2523
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002268.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002272.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002302.jpg 0.00 498.85 152.34 518.78 2 0.7013
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002311.jpg 3.13 480.38 195.27 640.00 3 0.9013
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002311.jpg 413.89 562.16 435.15 603.10 1 0.4275
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002321.jpg 0.17 564.55 170.30 590.54 2 0.7939
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002321.jpg 505.67 584.92 640.00 599.83 2 0.6480
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002326.jpg 1.81 437.40 70.46 447.84 2 0.3017
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002329.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002344.jpg 0.10 407.24 77.03 490.97 1 0.9503
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002350.jpg 6.49 413.89 139.71 509.34 1 0.5720
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002352.jpg 306.36 611.94 338.57 639.98 4 0.2698
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002353.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002363.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002377.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002378.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002383.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002386.jpg 300.52 439.10 372.55 457.21 2 0.3799
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002421.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002422.jpg 27.60 431.68 199.23 452.52 2 0.3447
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002428.jpg 0.00 578.37 125.51 599.57 2 0.7747
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002428.jpg 0.11 578.00 66.02 594.63 2 0.2547
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002439.jpg 191.23 397.15 260.23 462.87 1 0.8605
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002439.jpg 44.81 523.07 131.19 620.98 1 0.7948
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002440.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002442.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002451.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002454.jpg 89.07 564.70 235.97 581.31 2 0.3749
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002459.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002470.jpg 0.19 547.40 93.37 564.05 2 0.7856
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002529.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002588.jpg 249.48 384.37 267.45 443.36 1 0.5672
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002610.jpg 327.19 409.75 392.04 425.15 2 0.4995
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002613.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002622.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002650.jpg 0.00 437.84 130.82 456.68 2 0.3664
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002655.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002657.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002669.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002683.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002689.jpg 262.50 441.93 283.69 469.92 1 0.4091
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002702.jpg 114.14 473.32 164.35 545.37 1 0.6639
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002719.jpg 196.04 470.02 332.80 640.00 3 0.5261
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002741.jpg 457.48 555.13 491.46 632.74 1 0.8614
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002741.jpg 110.31 401.99 176.79 581.68 1 0.7674
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002749.jpg 289.50 459.90 313.82 552.38 1 0.9232
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002749.jpg 0.00 435.62 54.90 444.74 2 0.8868
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002749.jpg 289.53 459.39 314.05 551.61 1 0.2601
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002761.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002767.jpg 0.05 569.17 33.74 625.67 1 0.6977
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002767.jpg 297.92 531.08 345.95 639.70 1 0.4561
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002771.jpg 168.83 477.19 226.50 637.14 1 0.7349
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002771.jpg 207.56 536.07 271.46 548.15 2 0.2796
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002780.jpg 0.05 407.83 89.02 475.35 1 0.5705
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002780.jpg 423.10 428.34 529.29 441.19 2 0.5371
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002780.jpg 336.46 555.57 392.65 639.89 1 0.4723
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002810.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002818.jpg 318.24 434.08 353.90 487.42 1 0.5372
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002818.jpg 467.41 495.09 596.76 625.70 1 0.4118
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002818.jpg 456.99 492.88 541.92 589.94 1 0.3826
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002827.jpg 229.13 460.26 251.47 539.66 1 0.4124
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002827.jpg 1.90 558.35 134.89 578.61 2 0.2779
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002836.jpg 0.08 576.87 20.17 622.49 1 0.2730
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002843.jpg 538.37 620.09 592.24 636.55 2 0.3859
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002843.jpg 292.32 424.90 468.85 441.38 2 0.3852
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002857.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002868.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002874.jpg 207.58 471.20 340.20 640.00 3 0.9299
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002887.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002907.jpg 261.22 374.02 291.29 557.98 1 0.8967
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002920.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002943.jpg 0.00 603.40 38.16 615.87 2 0.7057
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002943.jpg 38.54 484.70 145.27 621.40 1 0.4995
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002947.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002959.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002962.jpg 183.42 470.17 228.13 548.67 1 0.3552
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002969.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002978.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002980.jpg 333.33 539.97 352.85 640.00 1 0.8585
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002980.jpg 251.48 544.84 275.73 639.85 1 0.4383
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_002991.jpg 213.89 465.67 256.60 639.38 1 0.6148
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003007.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003020.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003021.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003023.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003034.jpg 36.95 537.36 71.68 620.00 1 0.9019
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003036.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003070.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003078.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003085.jpg 123.71 506.33 149.98 555.85 1 0.7477
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003089.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003091.jpg 197.59 488.65 387.36 512.94 2 0.4235
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003101.jpg 481.30 426.95 528.70 469.74 1 0.8114
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003101.jpg 204.26 577.42 239.32 639.91 1 0.5343
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003108.jpg 277.56 428.29 404.04 451.04 2 0.9225
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003108.jpg 0.06 579.16 80.51 592.73 2 0.7934
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003122.jpg 492.42 530.23 639.92 618.39 1 0.3198
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003153.jpg 103.26 525.19 182.60 636.34 1 0.7454
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003153.jpg 126.39 525.26 183.92 601.30 1 0.3831
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003169.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003189.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003200.jpg 271.28 525.10 286.55 553.37 1 0.9088
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003200.jpg 432.47 549.33 490.52 640.00 1 0.5421
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003208.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003217.jpg 92.12 368.88 211.60 434.61 1 0.4214
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003223.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003233.jpg 0.04 453.92 73.53 529.45 1 0.6797
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003276.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003278.jpg 0.02 429.80 94.75 565.11 1 0.3468
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003285.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003291.jpg 0.00 537.83 101.56 557.91 2 0.7929
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003308.jpg 490.78 453.64 603.05 551.96 1 0.5373
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003308.jpg 185.62 424.32 231.28 555.35 1 0.5222
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003310.jpg 187.60 378.37 237.77 446.67 1 0.9557
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003310.jpg 266.18 457.34 285.86 523.82 1 0.9004
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003310.jpg 234.20 524.30 266.67 639.87 1 0.5539
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003312.jpg 2.60 518.63 137.65 544.73 2 0.9022
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003312.jpg 0.00 456.29 56.43 557.77 1 0.6634
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003349.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003355.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003382.jpg 49.94 359.43 211.26 512.61 3 0.3943
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003393.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003414.jpg 392.14 509.28 441.26 552.50 3 0.3380
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003416.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003418.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003425.jpg 242.87 392.82 283.51 495.81 1 0.8490
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003425.jpg 253.46 355.39 264.45 373.48 1 0.5349
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003447.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003458.jpg 294.89 534.90 373.26 550.04 2 0.3037
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003458.jpg 44.16 485.81 266.17 505.08 2 0.2501
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003465.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003473.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003500.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003503.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003519.jpg 160.10 412.35 232.25 512.53 1 0.5083
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003519.jpg 194.49 497.84 255.49 513.30 2 0.4459
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003526.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003530.jpg 238.13 467.03 327.53 482.54 2 0.8402
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003530.jpg 504.10 598.47 577.95 615.11 2 0.6833
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003538.jpg 286.34 555.88 369.27 639.91 1 0.2534
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003561.jpg 213.48 427.49 242.18 505.74 1 0.3643
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003579.jpg 107.62 557.23 122.62 588.77 1 0.9034
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003597.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003607.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003613.jpg 497.38 579.67 601.21 602.78 2 0.7229
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003613.jpg 498.13 462.65 639.90 609.19 3 0.4511
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003627.jpg 40.19 470.98 96.57 568.45 1 0.4142
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003627.jpg 39.40 394.73 105.71 568.34 1 0.4131
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003660.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003668.jpg 499.94 612.83 589.41 640.00 2 0.7845
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003668.jpg 403.18 500.50 464.94 592.18 1 0.3368
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003674.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003696.jpg 215.01 594.33 339.08 623.68 2 0.4800
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003696.jpg 505.30 539.84 627.32 568.08 2 0.3794
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003696.jpg 412.53 624.22 481.17 635.62 2 0.3246
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003703.jpg 195.18 439.91 228.40 481.93 1 0.4570
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003712.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003722.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003731.jpg 378.14 529.50 476.23 639.55 1 0.4153
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003733.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003738.jpg 19.11 466.01 131.49 484.24 2 0.6408
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003744.jpg 171.08 436.60 188.74 466.91 1 0.5016
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003751.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003752.jpg 506.46 440.33 520.88 454.42 4 0.8402
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003759.jpg 97.02 606.31 336.69 626.65 2 0.7616
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003759.jpg 199.80 606.95 339.58 624.94 2 0.4141
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003760.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003782.jpg 547.01 492.55 601.64 545.87 1 0.4861
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003798.jpg 250.04 361.91 265.27 478.78 1 0.8194
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003804.jpg 2.90 429.44 144.52 449.77 2 0.2901
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003807.jpg 0.05 554.89 158.02 577.25 2 0.9258
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003810.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003817.jpg 167.51 380.17 331.80 554.30 3 0.2995
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003820.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003823.jpg 375.02 402.24 510.60 418.88 2 0.5439
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003840.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003858.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003876.jpg 223.70 381.02 401.18 400.72 2 0.7068
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003876.jpg 363.94 449.00 508.19 467.30 2 0.4206
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003883.jpg 67.48 84.56 142.87 133.18 4 0.9183
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003891.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003911.jpg 565.82 587.67 639.86 601.98 2 0.7878
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003917.jpg 176.22 413.25 259.83 473.81 1 0.5551
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003917.jpg 186.73 139.17 233.31 156.74 4 0.2757
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003957.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003961.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003972.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_003997.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004010.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004012.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004018.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004042.jpg 422.21 499.62 543.02 516.61 2 0.4058
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004055.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004098.jpg 429.40 420.63 487.00 490.38 1 0.9160
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004100.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004117.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004141.jpg 264.82 412.20 294.54 543.38 1 0.3204
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004157.jpg 230.36 352.77 257.11 435.29 1 0.6730
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004157.jpg 245.57 460.65 287.35 639.60 1 0.5416
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004157.jpg 252.65 538.95 287.44 639.78 1 0.4056
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004164.jpg 159.95 439.72 201.35 496.93 1 0.2508
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004168.jpg 0.00 525.81 130.50 545.77 2 0.6517
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004168.jpg 61.46 537.69 134.42 635.82 1 0.5093
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004173.jpg 216.01 436.70 234.58 459.95 1 0.7891
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004173.jpg 133.64 565.95 164.06 640.00 1 0.4014
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004190.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004197.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004198.jpg 0.00 572.95 29.88 621.79 1 0.3575
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004213.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004215.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004221.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004239.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004261.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004263.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004269.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004271.jpg 457.58 453.43 492.62 474.12 4 0.2614
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004275.jpg 178.13 539.15 206.81 551.87 4 0.9183
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004275.jpg 286.25 599.11 334.61 640.00 4 0.2591
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004276.jpg 24.42 520.76 88.97 622.03 1 0.5198
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004277.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004284.jpg 612.50 301.72 638.25 329.88 3 0.4185
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004342.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004403.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004407.jpg 224.11 359.75 241.00 407.56 1 0.6672
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004434.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004450.jpg 0.00 518.86 94.14 553.92 2 0.3604
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004455.jpg 270.31 555.62 305.85 639.94 1 0.9412
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004455.jpg 142.83 522.18 190.99 639.94 1 0.7548
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004455.jpg 307.93 495.16 386.21 579.33 1 0.6751
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004455.jpg 411.83 520.00 603.70 640.00 3 0.6624
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004455.jpg 243.95 458.64 262.99 510.36 1 0.5522
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004463.jpg 78.80 397.87 207.66 568.21 3 0.3467
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004491.jpg 192.08 431.65 301.10 448.92 2 0.8399
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004529.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004530.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004534.jpg 90.55 535.60 142.31 640.00 1 0.8486
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004534.jpg 74.82 564.88 180.73 579.38 2 0.3216
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004535.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004538.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004541.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004542.jpg 212.70 380.81 257.96 532.22 1 0.8134
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004582.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004603.jpg 440.84 407.32 512.80 430.57 2 0.7469
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004603.jpg 69.26 413.35 129.39 574.27 1 0.3149
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004603.jpg 47.61 563.99 82.11 633.65 1 0.2617
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004625.jpg 431.79 437.71 534.47 514.01 1 0.6476
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004625.jpg 588.72 545.73 613.51 605.79 1 0.4746
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004625.jpg 246.66 409.96 286.48 500.34 1 0.4266
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004625.jpg 559.85 552.80 627.96 624.68 2 0.2793
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004633.jpg 168.23 495.41 191.48 536.17 1 0.6899
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004641.jpg 48.60 569.28 198.26 590.60 2 0.5812
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004660.jpg 1.85 565.86 81.11 619.42 2 0.8874
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004660.jpg 296.13 442.39 473.85 467.66 2 0.8420
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004660.jpg 375.20 463.32 443.27 638.01 1 0.8067
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004667.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004672.jpg 80.76 569.25 116.70 640.00 1 0.9242
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004672.jpg 298.01 547.97 344.65 639.58 1 0.7161
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004672.jpg 0.19 547.39 35.95 562.52 2 0.3745
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004675.jpg 291.08 442.06 470.40 469.37 2 0.8429
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004686.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004687.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004693.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004696.jpg 0.00 445.41 187.64 462.58 2 0.7275
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004700.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004710.jpg 243.65 422.49 263.55 473.03 1 0.8231
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004722.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004744.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004748.jpg 178.86 436.49 221.85 537.04 1 0.6863
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004751.jpg 222.71 364.06 231.69 385.48 1 0.7113
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004751.jpg 155.46 411.37 171.05 466.84 1 0.3197
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004755.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004774.jpg 144.83 542.53 173.68 589.69 1 0.9275
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004774.jpg 206.72 433.16 366.04 466.50 2 0.3576
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004790.jpg
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004800.jpg 229.56 554.76 256.83 640.00 1 0.5825
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004800.jpg 195.58 448.55 283.15 459.39 2 0.5533
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004800.jpg 366.57 391.17 385.30 416.26 1 0.3688
+/home/sejong/seonghyeon/road_damage_detection/hack_data/images/val_all/country3_004800.jpg 19.10 583.49 55.83 621.85 1 0.2584
